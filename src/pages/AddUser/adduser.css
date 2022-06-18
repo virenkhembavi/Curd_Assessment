@@ -1,0 +1,39 @@
+.Head-Wapper {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Middle-Wapper {
+    width: 80%;
+    height: 60vh;
+
+}
+
+.formContain {
+    width: 100%;
+}
+
+.Second-Container {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.First-Container {
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 12px;
+}
+
+.warning {
+    color: red;
+    font-size: 12px;
+}

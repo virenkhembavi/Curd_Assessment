@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "city": "mumbai",
+      "last_name": "khembavi",
+      "pincode": "401105",
+      "first_name": "sunny",
+      "states": "Goa",
+      "email": "vk@gmail.com"
+    },
+    {
+      "id": 2,
+      "city": "mumbai",
+      "last_name": "sharma",
+      "pincode": "401105",
+      "first_name": "viren",
+      "states": "Goa",
+      "email": "sg@test.com"
+    }
+  ]
+}
